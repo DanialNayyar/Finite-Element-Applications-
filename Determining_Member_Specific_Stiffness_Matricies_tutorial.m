@@ -5,6 +5,8 @@ function [Klocal, Kglobal] = Determining_Member_Specific_Stiffness_Matricies_tut
 %Script to dertermine the local and global stiffness matricies associated
 %to a 1D truss element starting (x1,y1) and ending at (x2,y2). This
 %implementation is for circullar cross-section bar.
+%Tutorial given by Dr. Okereke
+
 
 
 %Computations
